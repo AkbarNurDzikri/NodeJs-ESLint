@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/AkbarNurDzikri/NodeJs-ESLint/issues"
   },
-  "homepage": "https://github.com/AkbarNurDzikri/NodeJs-ESLint#readme"
+  "homepage": "https://github.com/AkbarNurDzikri/NodeJs-ESLint#readme",
+  "devDependencies": {
+    "eslint": "^8.48.0"
+  }
 }
